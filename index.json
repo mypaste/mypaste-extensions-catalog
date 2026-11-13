@@ -287,6 +287,17 @@
       "sha256": "31df2ab86455be3958e0fcbe9da75a06cfc5068c536889a9c582eab7d0e1ed8b",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.diff-view"
+    },
+    {
+      "id": "com.mypaste.logs",
+      "name": "日志",
+      "version": "1.0.0",
+      "kind": "ui",
+      "description": "本次运行的操作日志：查看、筛选、清空并切换 Info / Debug 记录级别。只有安装并启用这个扩展时宿主才记录；扩展停用后缓冲随即清空。",
+      "fileName": "com.mypaste.logs-1.0.0.mypaste-plugin",
+      "sha256": "201ea78a5fa50e2a69b5f9a4f8e7b94e76dce47809f52efab163825d4bd52f8b",
+      "runtimeProtocol": 0,
+      "repository": "https://github.com/mypaste/com.mypaste.logs"
     }
   ]
 }
