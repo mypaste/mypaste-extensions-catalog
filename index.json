@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-11",
+  "generated": "2026-11-13",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -166,6 +166,17 @@
       "sha256": "27dc686bc3eb71c63ae7fcca2a20c0cbc36d5068640e91f6b11751e9a99376c2",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.image-edit"
+    },
+    {
+      "id": "com.mypaste.data-stats",
+      "name": "数据统计",
+      "version": "1.0.1",
+      "kind": "ui",
+      "description": "按内容类型、来源与时间统计当前数据；页面只读取宿主聚合后的计数，不读取条目正文。",
+      "fileName": "com.mypaste.data-stats-1.0.1.mypaste-plugin",
+      "sha256": "12134862d0934dd27f0c42fcc672eb3901550ab33432890b9b5fa2d8031dbb70",
+      "runtimeProtocol": 0,
+      "repository": "https://github.com/mypaste/com.mypaste.data-stats"
     },
     {
       "id": "com.mypaste.data-settings",
