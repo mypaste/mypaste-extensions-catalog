@@ -1,6 +1,6 @@
 # mypaste-extensions-catalog
 
-Published marketplace feed for 27 MyPaste extensions.
+Published marketplace feed for 28 MyPaste extensions.
 
 This repository is an independent copy of the tracked `dist/` files from the former `mypaste-code-extensions` monorepo at commit `2af6675ab1473c9e38146ea0b6da68256a293440`. Every `.mypaste-plugin` archive, SHA-256 checksum, and the deterministic `index.json` feed is preserved byte-for-byte.
 
