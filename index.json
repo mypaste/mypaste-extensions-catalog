@@ -309,6 +309,17 @@
       "sha256": "e6def923e2c946331cfac7da3131798fad9f098c0706ce8266dcd109f54bc7ba",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.httpstat"
+    },
+    {
+      "id": "com.mypaste.response-inspector",
+      "name": "响应头与证书",
+      "version": "1.0.0",
+      "kind": "ui",
+      "description": "查看一个 HTTPS 地址实际返回的响应：状态行、完整响应头、重定向链，以及 TLS 版本、密码套件和整条证书链的颁发者、有效期、SAN、公钥与 SHA-256 指纹。只经宿主发出一次只读 GET，不读取响应正文、不发送 Cookie、不连接本机或内网地址；证书无效时照常列出细节并明确标出验证失败。",
+      "fileName": "com.mypaste.response-inspector-1.0.0.mypaste-plugin",
+      "sha256": "63825719b84c88abfd8e2475c673c273c62e8d3952a3d8f464ff130106ed7744",
+      "runtimeProtocol": 2,
+      "repository": "https://github.com/mypaste/com.mypaste.response-inspector"
     }
   ]
 }
