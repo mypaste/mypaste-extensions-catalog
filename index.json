@@ -313,11 +313,11 @@
     {
       "id": "com.mypaste.response-inspector",
       "name": "响应头与证书",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "kind": "ui",
       "description": "查看一个 HTTPS 地址实际返回的响应：状态行、完整响应头、重定向链，以及 TLS 版本、密码套件和整条证书链的颁发者、有效期、SAN、公钥与 SHA-256 指纹。只经宿主发出一次只读 GET，不读取响应正文、不发送 Cookie、不连接本机或内网地址；证书无效时照常列出细节并明确标出验证失败。",
-      "fileName": "com.mypaste.response-inspector-1.0.0.mypaste-plugin",
-      "sha256": "63825719b84c88abfd8e2475c673c273c62e8d3952a3d8f464ff130106ed7744",
+      "fileName": "com.mypaste.response-inspector-1.0.1.mypaste-plugin",
+      "sha256": "7da439e79dd606d59027df65f0ad80f27bb62d5fafefc9d0ce68341865b5be13",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.response-inspector"
     }
