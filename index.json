@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -301,12 +301,12 @@
     },
     {
       "id": "com.mypaste.httpstat",
-      "name": "HTTP 计时",
-      "version": "1.0.0",
+      "name": "httpstat",
+      "version": "1.0.1",
       "kind": "ui",
       "description": "打开一条链接就测量它的 HTTP 时序：DNS 解析、TCP 连接、TLS 握手、等待响应与内容传输分段计时，用瀑布图与表格对照，并列出状态码、协议、远端地址与响应头；地址可以改，随时重新计时，也能复制完整报告。计时由包内 Go 程序针对这一条地址发出一次 GET，不读取其它条目，也不把地址或结果写到别处。",
-      "fileName": "com.mypaste.httpstat-1.0.0.mypaste-plugin",
-      "sha256": "e6def923e2c946331cfac7da3131798fad9f098c0706ce8266dcd109f54bc7ba",
+      "fileName": "com.mypaste.httpstat-1.0.1.mypaste-plugin",
+      "sha256": "4234b3b8fdd3e6e0d398e82ee0c4c208f5ab6fac405932d46098b1715697eee4",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.httpstat"
     },
