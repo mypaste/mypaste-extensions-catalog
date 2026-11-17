@@ -93,11 +93,11 @@
     {
       "id": "com.mypaste.sql",
       "name": "SQL Toolkit",
-      "version": "4.4.0",
+      "version": "5.0.0",
       "kind": "ui",
-      "description": "七种方言的 SQL 工作区：只在正文是 SQL 语句时出现在扩展列表；语法高亮、括号与子句顺序诊断、美化与压缩都在页面内完成，不执行 SQL、不联网；方言、关键字大小写与缩进随页面切换，长行默认自动换行，复制由宿主写入剪贴板。",
-      "fileName": "com.mypaste.sql-4.4.0.mypaste-plugin",
-      "sha256": "1e8e9f68b5a6c272b3f1250dcc68515a2043b66edf284f47caef42fb7c08cd5f",
+      "description": "七种方言的 SQL 工作区，只在正文是 SQL 语句时出现：按 SQL Style Guide 美化（关键字大写、子句右对齐、可选目标行宽），编辑器高亮、语法问题列表与压缩都在页面内完成；解析不了的语句原样保留并标出位置，不执行 SQL、不联网；复制由宿主写入剪贴板。",
+      "fileName": "com.mypaste.sql-5.0.0.mypaste-plugin",
+      "sha256": "4416c5357ed8ee43e2e3a1ac1edc56696f83f1bddf0f6e1d5b1def3b63af0045",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.sql"
     },
