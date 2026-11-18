@@ -238,7 +238,7 @@
       "name": "翻译对照",
       "version": "1.5.0",
       "kind": "ui",
-      "description": "把一条外文条目排成对照阅读：每段原文下方给出译文并保留段落；点单词弹出释义卡片。服务在顶部切换：Google 翻译（translate.googleapis.com）、MyMemory（api.mymemory.translated.net）、Bilibili Index-Translate、DeepSeek（api.deepseek.com）、以及 OpenAI 兼容与 Claude 兼容——地址与模型由你在扩展设置里填写，可以是官方接口，也可以是任何兼容实现，密钥由宿主保管；音标与词性从有道词典（dict.youdao.com）补齐。原文只按段发往所选服务，结果只留在本页。",
+      "description": "把一条外文条目排成对照阅读：每段原文下方给出译文并保留段落；点单词弹出释义卡片。服务在顶部切换：Google 翻译（translate.googleapis.com）、MyMemory（api.mymemory.translated.net）、Bilibili Index-Translate、DeepSeek（api.deepseek.com），以及地址与模型由你填写的 OpenAI 兼容与 Claude 兼容（密钥由宿主保管）；音标与词性从有道词典（dict.youdao.com）补齐。",
       "fileName": "com.mypaste.translate-1.5.0.mypaste-plugin",
       "sha256": "455498f4e4803ec6b7991566f98a1e8d3a49f562f90db3b6177dd00a2601abcc",
       "runtimeProtocol": 2,
