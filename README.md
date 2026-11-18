@@ -12,6 +12,16 @@ https://raw.githubusercontent.com/mypaste/mypaste-extensions-catalog/main/index.
 
 Package sources are in the sibling repositories named after their plugin IDs under <https://github.com/mypaste>.
 
+## Publishing
+
+Each entry in `index.json` is validated by the host that reads it. Two limits
+bite first: `name` may be at most 72 characters and `description` at most 280
+(`MaxNameRunes` / `MaxDescription` in the host's `internal/extension`). A host
+that cannot read an entry skips it rather than failing the whole feed, so an
+over-long description does not break the marketplace — it makes that one
+package disappear from it. `sha256` is the digest of the archive beside it.
+
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
