@@ -302,11 +302,11 @@
     {
       "id": "com.mypaste.diff-view",
       "name": "高亮对比",
-      "version": "3.2.2",
+      "version": "3.3.0",
       "kind": "ui",
       "description": "把这条文本与屏幕上相邻的一条文本逐行对照：先对齐整行，再只标出真正改动的词。对比在本机完成，不联网；除本次条目外只读相邻的一条文本。",
-      "fileName": "com.mypaste.diff-view-3.2.2.mypaste-plugin",
-      "sha256": "31df2ab86455be3958e0fcbe9da75a06cfc5068c536889a9c582eab7d0e1ed8b",
+      "fileName": "com.mypaste.diff-view-3.3.0.mypaste-plugin",
+      "sha256": "df38a69ae824e92248c95cdfc39d1ccb62decd3878268f8d777583ed4d76470f",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.diff-view"
     },
