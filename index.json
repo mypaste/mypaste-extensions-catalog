@@ -181,11 +181,11 @@
     {
       "id": "com.mypaste.data-stats",
       "name": "数据统计",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "kind": "ui",
       "description": "按内容类型、来源与时间统计当前数据；页面只读取宿主聚合后的计数，不读取条目正文。",
-      "fileName": "com.mypaste.data-stats-1.0.2.mypaste-plugin",
-      "sha256": "703ff328506dc41f96a455622d37cdbff4e93ffac7d5e422974c54525aba6351",
+      "fileName": "com.mypaste.data-stats-1.0.3.mypaste-plugin",
+      "sha256": "964a07b585d9d9462440bce07bdacb356f62d83e2d8725b64a6437b735b2060f",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.data-stats"
     },
