@@ -16,11 +16,11 @@
     {
       "id": "com.mypaste.hosts",
       "name": "Hosts",
-      "version": "1.1.5",
+      "version": "1.2.0",
       "kind": "ui",
       "description": "在设置窗口里管理 /etc/hosts：按文件里的注释分组查看条目，启用或停用、新增与删除地址和主机名，写入前自动保留上一份，每次写入的版本都能在页面里翻看并恢复。读取、解析与拼回都在扩展自己的进程里完成；写入先用你的权限，系统不允许时由 macOS 弹出一次管理员授权，文件始终是本机这一份，不经过网络。",
-      "fileName": "com.mypaste.hosts-1.1.5.mypaste-plugin",
-      "sha256": "34d54ff86bd418355e0b6ae6149ef58710648d7012cee0603c21397f4833f9bf",
+      "fileName": "com.mypaste.hosts-1.2.0.mypaste-plugin",
+      "sha256": "39c303bb031b6fb1ed8905ba6c94f7ee5730323d02c19dd86c42ca5cba51d89a",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.hosts"
     },
