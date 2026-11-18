@@ -234,6 +234,17 @@
       "repository": "https://github.com/mypaste/com.mypaste.boards"
     },
     {
+      "id": "com.mypaste.translate",
+      "name": "翻译对照",
+      "version": "1.0.0",
+      "kind": "ui",
+      "description": "把一条外文条目排成对照阅读：每段原文下方给出译文，保留段落与换行；点任意单词弹出释义卡片，含音标、词性与常用义。翻译服务可在页面顶部切换：Google 翻译（translate.googleapis.com）支持的语言最多，Bilibili Index-Translate（index-translate.bilibili.com）中英日互译并可选 Index-Nailong 9B / 2B 模型。原文只按段发往所选服务，结果只留在本页，不保存、不改写原条目。",
+      "fileName": "com.mypaste.translate-1.0.0.mypaste-plugin",
+      "sha256": "244baf7d41481d72948416b4592cd47c320aa31fb7042c94a2e78223aa6c7d97",
+      "runtimeProtocol": 2,
+      "repository": "https://github.com/mypaste/com.mypaste.translate"
+    },
+    {
       "id": "com.mypaste.backup-scheduler",
       "name": "自动备份",
       "version": "2.1.0",
