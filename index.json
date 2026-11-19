@@ -159,11 +159,11 @@
     {
       "id": "com.mypaste.sync",
       "name": "S3 同步",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "kind": "ui",
       "description": "把历史与资产加密后上传到自己的 S3 存储，也可以从远端恢复。归档、加密、S3 签名、凭据与自动上传计划都在扩展自己的进程里完成；数据只经宿主的只读视图读取，连接与恢复仍由宿主确认。凭据只存放在扩展的私有存储中，不进入页面、日志或宿主设置。",
-      "fileName": "com.mypaste.sync-1.0.4.mypaste-plugin",
-      "sha256": "22a29cf67571ef370bb3dded394b08952b7159b67c36b7f5c052e48116247ed4",
+      "fileName": "com.mypaste.sync-1.0.5.mypaste-plugin",
+      "sha256": "0a0d3055d7f0a1c30a1b3f684165917cb03c426c8049fa0e014bc4bb07bf911a",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.sync"
     },
@@ -181,22 +181,22 @@
     {
       "id": "com.mypaste.data-stats",
       "name": "数据统计",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "kind": "ui",
       "description": "按内容类型、来源与时间统计当前数据；页面只读取宿主聚合后的计数，不读取条目正文。",
-      "fileName": "com.mypaste.data-stats-1.0.3.mypaste-plugin",
-      "sha256": "964a07b585d9d9462440bce07bdacb356f62d83e2d8725b64a6437b735b2060f",
+      "fileName": "com.mypaste.data-stats-1.0.4.mypaste-plugin",
+      "sha256": "a128ace15dfa399d05474e02b6ee70ee07edeb7bfccb215221124bc8c49c6200",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.data-stats"
     },
     {
       "id": "com.mypaste.data-settings",
       "name": "数据设置",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "kind": "ui",
       "description": "备份与恢复、历史导入导出、设置文件与诊断；界面由随包扩展提供，文件选择、校验与写入仍由宿主完成。",
-      "fileName": "com.mypaste.data-settings-1.0.2.mypaste-plugin",
-      "sha256": "9f15a63fb0ac2cef8972ea497600b58ab01e1703e3ff768005fd56bb8c50f4bf",
+      "fileName": "com.mypaste.data-settings-1.0.3.mypaste-plugin",
+      "sha256": "2f01b6468f53d9437ba7434e013dcee496f7763ef623550e28047cc75de1b840",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.data-settings"
     },
@@ -313,11 +313,11 @@
     {
       "id": "com.mypaste.logs",
       "name": "日志",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "kind": "ui",
       "description": "本次运行的操作日志：查看、筛选、清空并切换 Info / Debug 记录级别。只有安装并启用这个扩展时宿主才记录；扩展停用后缓冲随即清空。",
-      "fileName": "com.mypaste.logs-1.0.0.mypaste-plugin",
-      "sha256": "201ea78a5fa50e2a69b5f9a4f8e7b94e76dce47809f52efab163825d4bd52f8b",
+      "fileName": "com.mypaste.logs-1.0.1.mypaste-plugin",
+      "sha256": "60b9d62f40fbcd3bb20e8527f50bcac61712f5275058b41e3ca0a1b27e24493c",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.logs"
     },
