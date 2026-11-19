@@ -159,11 +159,11 @@
     {
       "id": "com.mypaste.sync",
       "name": "S3 同步",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "kind": "ui",
       "description": "把历史与资产加密后上传到自己的 S3 存储，也可以从远端恢复。归档、加密、S3 签名、凭据与自动上传计划都在扩展自己的进程里完成；数据只经宿主的只读视图读取，连接与恢复仍由宿主确认。凭据只存放在扩展的私有存储中，不进入页面、日志或宿主设置。",
-      "fileName": "com.mypaste.sync-1.0.6.mypaste-plugin",
-      "sha256": "cc105f09f93a1be87f5242335a3611c2a666a7e5fd6fa7ed44cc7f48486175dd",
+      "fileName": "com.mypaste.sync-1.0.7.mypaste-plugin",
+      "sha256": "324c73300b7b49ea27fe90fbc7efe9ba43d6e730033ca1f5019f7d70afbd1f06",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.sync"
     },
