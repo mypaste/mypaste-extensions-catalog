@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -302,11 +302,11 @@
     {
       "id": "com.mypaste.diff-view",
       "name": "高亮对比",
-      "version": "3.3.0",
+      "version": "3.3.1",
       "kind": "ui",
       "description": "把这条文本与屏幕上相邻的一条文本逐行对照：先对齐整行，再只标出真正改动的词。对比在本机完成，不联网；除本次条目外只读相邻的一条文本。",
-      "fileName": "com.mypaste.diff-view-3.3.0.mypaste-plugin",
-      "sha256": "df38a69ae824e92248c95cdfc39d1ccb62decd3878268f8d777583ed4d76470f",
+      "fileName": "com.mypaste.diff-view-3.3.1.mypaste-plugin",
+      "sha256": "7e6385ad0050b9cd6dd809dafd65700c26405cd81d3ab74dccb5f103425985eb",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.diff-view"
     },
