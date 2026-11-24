@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-20",
+  "generated": "2026-11-24",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -199,6 +199,17 @@
       "sha256": "2f01b6468f53d9437ba7434e013dcee496f7763ef623550e28047cc75de1b840",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.data-settings"
+    },
+    {
+      "id": "com.mypaste.extract",
+      "name": "内容解析",
+      "version": "2.0.1",
+      "kind": "ui",
+      "description": "按内置规则与自定义模板识别手机号、邮箱、收货地址、身份证号、银行卡号、链接、IPv4、日期、金额与验证码，按分组高亮原文并列出可复制的值。设置窗口里粘贴一段文字即可解析，剪切坞的预览里也能对选中条目选用本扩展；卡片上的「提取关键信息」用同一套规则把识别到的值复制到剪贴板。模板可以自己增删，只保存在扩展私有目录；识别全部在扩展自己的进程里完成，不联网。",
+      "fileName": "com.mypaste.extract-2.0.1.mypaste-plugin",
+      "sha256": "e7469c33005936ccaddf9d8f61f77504caef065171ce06deaf2431db1da71e0a",
+      "runtimeProtocol": 2,
+      "repository": "https://github.com/mypaste/com.mypaste.extract"
     },
     {
       "id": "com.mypaste.timestamp",
