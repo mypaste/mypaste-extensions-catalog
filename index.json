@@ -163,7 +163,7 @@
       "kind": "ui",
       "description": "把历史与资产加密后上传到自己的 S3 存储，也可以从远端恢复。归档、加密、S3 签名、凭据与自动上传计划都在扩展自己的进程里完成；数据只经宿主的只读视图读取，连接与恢复仍由宿主确认。凭据只存放在扩展的私有存储中，不进入页面、日志或宿主设置。",
       "fileName": "com.mypaste.sync-1.0.11.mypaste-plugin",
-      "sha256": "ab803a48123afce21f713cef1a073b0597d1a33a8d3ccf66e714780ed7615f51",
+      "sha256": "3c560fd691b93742cfe4beb01604b5ea40f458332d8553bb207554337160fd72",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.sync"
     },
@@ -207,7 +207,7 @@
       "kind": "ui",
       "description": "按内置规则与自定义模板识别手机号、邮箱、收货地址、身份证号、银行卡号、链接、IPv4、日期、金额与验证码，按分组高亮原文并列出可复制的值。设置窗口里粘贴一段文字即可解析，剪切坞的预览里也能对选中条目选用本扩展；卡片上的「提取关键信息」用同一套规则把识别到的值复制到剪贴板。模板可以自己增删，只保存在扩展私有目录；识别全部在扩展自己的进程里完成，不联网。",
       "fileName": "com.mypaste.extract-2.0.2.mypaste-plugin",
-      "sha256": "d516ca578d1c2f51c628ba03242ab2d275d7b8837977480b5d5a53a226868e8c",
+      "sha256": "49f5b0354847f98fb245bb9724b04141789cc222375b105bd5cfd712296a6696",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.extract"
     },
