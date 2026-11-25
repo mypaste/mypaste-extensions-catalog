@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -287,6 +287,17 @@
       "sha256": "e3929cfa913abed2b3e2b55593c3a7451d31374b8a129c68dfbade640a204aa6",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.ferry"
+    },
+    {
+      "id": "com.mypaste.colors",
+      "name": "配色",
+      "version": "1.0.0",
+      "kind": "ui",
+      "description": "每天一款配色，也可以从任意颜色生成深浅色阶；收藏的配色留在扩展自己的私有目录，复制走宿主剪贴板。",
+      "fileName": "com.mypaste.colors-1.0.0.mypaste-plugin",
+      "sha256": "4e5074ec4f843e8e90eb9e663f8a854c8e427fcc361ba6eed0728c18cda1db28",
+      "runtimeProtocol": 2,
+      "repository": "https://github.com/mypaste/com.mypaste.colors"
     },
     {
       "id": "com.mypaste.link-inspector",
