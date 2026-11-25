@@ -368,11 +368,11 @@
     {
       "id": "com.mypaste.music",
       "name": "音乐播放器",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "kind": "ui",
       "description": "在设置窗口里搜索并播放网易云、QQ 音乐与酷我的歌：榜单、歌词、收藏、队列与最近 5 次搜索；播放地址与歌词只经宿主代理访问声明的站点，歌曲与封面由页面直接加载。",
-      "fileName": "com.mypaste.music-1.3.2.mypaste-plugin",
-      "sha256": "446a4233de6c2d8bb95f5e09ade7d2be56065e2e9508b19fe135a2ac566400f5",
+      "fileName": "com.mypaste.music-1.3.3.mypaste-plugin",
+      "sha256": "3b434e8fbf241951be7228660a5a97792a68e135c5de2fa8a187ee0784ab2883",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.music"
     }
