@@ -16,11 +16,11 @@
     {
       "id": "com.mypaste.hoppscotch",
       "name": "Hoppscotch 本地",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "kind": "ui",
       "description": "在设置窗口里收发本机 HTTP 请求的本机 API 工作台：请求方法、地址、查询参数、请求头、请求体与 Bearer / Basic 认证，响应状态、耗时、大小、响应头与 JSON 美化，集合、发送历史与环境变量（{{变量}} 替换）。请求由扩展自己的进程直接发出，工作区只保存在扩展的私有存储里，没有账号、没有云端同步，也不连接 Hoppscotch 的任何服务。entity.read 是宿主要求菜单页文本输入必须声明的能力，扩展只读写自己的存储，不读取宿主的历史。",
-      "fileName": "com.mypaste.hoppscotch-1.0.4.mypaste-plugin",
-      "sha256": "b0e619357783a430e583efaef937d6c3c3c89cf38351aea112e364b9c3b64a63",
+      "fileName": "com.mypaste.hoppscotch-1.0.5.mypaste-plugin",
+      "sha256": "b7ad19554a9f26c35ebbc531527713bf89fb10b5c11b4a26b0249b3df7fdb96f",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.hoppscotch"
     },
