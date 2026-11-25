@@ -302,11 +302,11 @@
     {
       "id": "com.mypaste.colors",
       "name": "配色",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "kind": "ui",
-      "description": "每天一款配色，也可以从任意颜色生成深浅色阶；收藏的配色留在扩展自己的私有目录，复制走宿主剪贴板。",
-      "fileName": "com.mypaste.colors-1.1.0.mypaste-plugin",
-      "sha256": "44974534ce40a6c6ab04fcd5dff25c4ac6d99c9180a3a696ee87249590f6ddcb",
+      "description": "每天一款配色，也可以从任意颜色生成深浅色阶；Ctrl+Alt+C 一步打开，取色页从上次用过的颜色接着展开；收藏留在扩展自己的私有目录，复制走宿主剪贴板。",
+      "fileName": "com.mypaste.colors-1.2.0.mypaste-plugin",
+      "sha256": "38692bba8e205a6db2a8178835dcdaff94cd73592c1afe6ea336371251c98f2c",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.colors"
     },
