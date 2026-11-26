@@ -27,11 +27,11 @@
     {
       "id": "com.mypaste.hosts",
       "name": "Hosts",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "kind": "ui",
       "description": "在设置窗口里管理 /etc/hosts：按文件里的注释分组查看条目，启用或停用、新增与删除地址和主机名，写入前自动保留上一份，每次写入的版本都能在页面里翻看并恢复。读取、解析与拼回都在扩展自己的进程里完成；写入先用你的权限，系统不允许时由 macOS 弹出一次管理员授权，文件始终是本机这一份，不经过网络。",
-      "fileName": "com.mypaste.hosts-1.2.0.mypaste-plugin",
-      "sha256": "39c303bb031b6fb1ed8905ba6c94f7ee5730323d02c19dd86c42ca5cba51d89a",
+      "fileName": "com.mypaste.hosts-1.3.0.mypaste-plugin",
+      "sha256": "a52ebec27107535217522366ab0d2c45dfd572527da86cef8b1cb1f836720e53",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.hosts"
     },
@@ -115,11 +115,11 @@
     {
       "id": "com.mypaste.sql",
       "name": "SQL Toolkit",
-      "version": "5.1.1",
+      "version": "5.3.0",
       "kind": "ui",
-      "description": "七种方言的 SQL 工作区，只在正文是 SQL 语句时出现：按 SQL Style Guide 美化（关键字大写、子句右对齐、可选目标行宽），编辑器高亮、语法问题列表与压缩都在页面内完成；解析不了的语句原样保留并标出位置，不执行 SQL、不联网；复制由宿主写入剪贴板。",
-      "fileName": "com.mypaste.sql-5.1.1.mypaste-plugin",
-      "sha256": "7af5b081d4b0b6c1befb97c630769b5eb4634a9cbcb17642ddd58ced8f6a1d03",
+      "description": "七种方言的 SQL 工作区，只在正文是 SQL 语句时出现：按 SQL Style Guide 美化（关键字大写、子句右对齐、可选目标行宽），编辑器高亮、语法问题列表与压缩都在页面内完成；解析不了的语句原样保留并标出位置，不执行 SQL、不联网；复制由宿主写入剪贴板。设置 › 快捷键里的「SQL Toolkit」一行（默认 Ctrl+Alt+S）直接把当前条目打开成这个工作区。",
+      "fileName": "com.mypaste.sql-5.3.0.mypaste-plugin",
+      "sha256": "823307130146131d7d77b9b148e6455a713cf1cf77750dcc6effe12959d0cc02",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.sql"
     },
@@ -148,11 +148,11 @@
     {
       "id": "com.mypaste.code-edit",
       "name": "代码编辑",
-      "version": "3.9.1",
+      "version": "3.9.5",
       "kind": "ui",
       "description": "在本地编辑代码或纯文本：行号、语法高亮、语言识别与格式化都随包提供，所有语言的格式化都在扩展内完成，不依赖本机安装 gofmt、rustfmt、Python、Prettier 或其它工具；本机有 Node 时，CSS、YAML、JavaScript 与 TypeScript 会改用包内 Prettier 或内置脚本，排版更完整，没有也照常可用；顶部是可编辑标题的文档头，「语言」与「格式化」两个下拉按当前语言列出内置格式化与 SQL 压缩；高亮完全本地，不依赖其它能力包。可另存为新的历史条目或复制到剪贴板，原条目保持不变，不联网、不读取其它条目。",
-      "fileName": "com.mypaste.code-edit-3.9.1.mypaste-plugin",
-      "sha256": "51e0c64043dc018d0ca59bc38653c4ec436fa906165551ca2a754561cb31cd9a",
+      "fileName": "com.mypaste.code-edit-3.9.5.mypaste-plugin",
+      "sha256": "b2bb932144265990f48373225bb69c184c4fc7da99f02d97946cda665f053dde",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.code-edit"
     },
@@ -203,11 +203,11 @@
     {
       "id": "com.mypaste.data-settings",
       "name": "数据设置",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "kind": "ui",
       "description": "备份与恢复、历史导入导出、设置文件与诊断；界面由随包扩展提供，文件选择、校验与写入仍由宿主完成。",
-      "fileName": "com.mypaste.data-settings-1.0.3.mypaste-plugin",
-      "sha256": "2f01b6468f53d9437ba7434e013dcee496f7763ef623550e28047cc75de1b840",
+      "fileName": "com.mypaste.data-settings-1.0.4.mypaste-plugin",
+      "sha256": "2c609070f16d80a18f854e66430d84ee80c93ac5d3ec9f0b372a7cb53dd14990",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.data-settings"
     },
@@ -346,13 +346,24 @@
     {
       "id": "com.mypaste.logs",
       "name": "日志",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "kind": "ui",
       "description": "本次运行的操作日志：查看、筛选、清空并切换 Info / Debug 记录级别。只有安装并启用这个扩展时宿主才记录；扩展停用后缓冲随即清空。",
-      "fileName": "com.mypaste.logs-1.0.1.mypaste-plugin",
-      "sha256": "60b9d62f40fbcd3bb20e8527f50bcac61712f5275058b41e3ca0a1b27e24493c",
+      "fileName": "com.mypaste.logs-1.0.2.mypaste-plugin",
+      "sha256": "cfd1416292e641b0bb4139929cb5272c2984cdb92bb3b61d4d9675afcccfe82f",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.logs"
+    },
+    {
+      "id": "com.mypaste.mail",
+      "name": "来信",
+      "version": "1.1.2",
+      "kind": "ui",
+      "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。Gmail 与 Outlook 可以在浏览器里登录，不用生成密码；其他邮箱用授权码。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。授权码与登录令牌只存在扩展的私有目录里，信件正文只在打开时读取、不存副本；这一版只读，不删除、移动或发送邮件，也不经过任何中转服务。",
+      "fileName": "com.mypaste.mail-1.1.2.mypaste-plugin",
+      "sha256": "d0576be7a678fa3328f736fc4fd6d86125cc63f9004e5e961492bf0fb698dd56",
+      "runtimeProtocol": 2,
+      "repository": "https://github.com/mypaste/com.mypaste.mail"
     },
     {
       "id": "com.mypaste.httpstat",
