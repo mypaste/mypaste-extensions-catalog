@@ -60,11 +60,11 @@
     {
       "id": "com.mypaste.json",
       "name": "JSON 编辑器",
-      "version": "3.7.0",
+      "version": "3.9.0",
       "kind": "ui",
-      "description": "只在正文是 JSON 对象或数组时出现的 JSON 编辑器：在页面内用 Prettier 排版 JSON，两侧都是可编辑、带行号与语法高亮的代码面板，右侧实时预览左侧，任何一侧都在出错的位置标出错误，说明写在面板下方。美化、压缩、折叠、XML、TypeScript 与复制齐全；折叠把嵌套结构收成一行、可再展开，「保留转义」开关决定结果里 \\uXXXX 与 \\/ 是否还原；粘贴 URL 参数、XML 或 YAML 转换后写在右侧。Prettier 内置于页面，不需要 Node，不联网，复制由宿主执行。",
-      "fileName": "com.mypaste.json-3.7.0.mypaste-plugin",
-      "sha256": "29db856993e9ad2a2b5608c3630eba3f79458b1e199e2f2c2d8472ed5e2c246e",
+      "description": "只在正文是 JSON 对象或数组时出现的 JSON 编辑器：打开先看到可折叠的树，点键展开或折叠，点「原始数据」回到可编辑正文。在页面内用 Prettier 排版 JSON，两侧都是可编辑、带行号与语法高亮的代码面板，右侧实时预览左侧，出错的位置两侧都会标出错误，说明写在面板下方。美化、压缩、折叠、XML、TypeScript 与复制齐全；折叠把嵌套结构收成一行，「保留转义」开关决定结果里 \\uXXXX 与 \\/ 是否还原；粘贴 URL 参数、XML 或 YAML 转换后写在右侧。Prettier 内置于页面，不需要 Node，不联网，复制由宿主执行。",
+      "fileName": "com.mypaste.json-3.9.0.mypaste-plugin",
+      "sha256": "0febb7514161cd32241660584ad02a6f82f48a9c98485c02dda6894fb591b289",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.json"
     },
