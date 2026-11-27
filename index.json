@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-27T15:20:13+08:00",
+  "generated": "2026-11-27T16:31:44+08:00",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -269,11 +269,11 @@
     {
       "id": "com.mypaste.mail",
       "name": "来信",
-      "version": "1.1.11",
+      "version": "1.1.12",
       "kind": "ui",
-      "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。Gmail 与 Outlook 可以在浏览器里登录，不用生成密码；其他邮箱用授权码。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。在信件工具栏点「翻译」时逐段给出译文，原文分段发往所选的服务：Google、MyMemory、B 站 Index-Translate（中英日），或你自己填写的 OpenAI / Claude 兼容地址，首选出错会自动改用备用。授权码与登录令牌只存在扩展的私有目录里，API 密钥只由宿主保存；信件正文只在打开时读取、不存副本；这一版只读，不删除、移动或发送邮件。",
-      "fileName": "com.mypaste.mail-1.1.11.mypaste-plugin",
-      "sha256": "d27d7f31410b3b211c851deb8cd78f53d1b819aaf916c246776fc60802de1213",
+      "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。在信件工具栏点「翻译」时逐段给出译文，可选 Google、MyMemory、B 站 Index-Translate 或你自己填写的 OpenAI / Claude 兼容服务，首选出错自动改用备用。授权码、令牌与 API 密钥只由宿主保存；这一版只读，不删除、移动或发送邮件。",
+      "fileName": "com.mypaste.mail-1.1.12.mypaste-plugin",
+      "sha256": "8397de4f63350e27d43fc19d82ec685d5c08233af3e505b8984da1dc5e10793d",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.mail"
     },
