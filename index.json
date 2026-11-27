@@ -357,11 +357,11 @@
     {
       "id": "com.mypaste.mail",
       "name": "来信",
-      "version": "1.1.8",
+      "version": "1.1.9",
       "kind": "ui",
-      "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。Gmail 与 Outlook 可以在浏览器里登录，不用生成密码；其他邮箱用授权码。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。授权码与登录令牌只存在扩展的私有目录里，信件正文只在打开时读取、不存副本；这一版只读，不删除、移动或发送邮件，也不经过任何中转服务。",
-      "fileName": "com.mypaste.mail-1.1.8.mypaste-plugin",
-      "sha256": "40fdac6f50968b33f765fd76e6a5022f219f8ad18fb5164497892766d3252855",
+      "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。Gmail 与 Outlook 可以在浏览器里登录，不用生成密码；其他邮箱用授权码。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。可选对照翻译：打开后每段原文下方给出译文，原文分段发往 translate.googleapis.com。授权码与登录令牌只存在扩展的私有目录里，信件正文只在打开时读取、不存副本；这一版只读，不删除、移动或发送邮件。",
+      "fileName": "com.mypaste.mail-1.1.9.mypaste-plugin",
+      "sha256": "696ce10312e61dc09a657a838dd5f12ec8cf13571df3b2668e736f165819e868",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.mail"
     },
