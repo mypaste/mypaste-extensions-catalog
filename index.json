@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-11-27",
+  "generated": "2026-11-27T15:09:13+08:00",
   "packages": [
     {
       "id": "mypaste.format-go",
@@ -60,11 +60,11 @@
     {
       "id": "com.mypaste.json",
       "name": "JSON 编辑器",
-      "version": "3.11.5",
+      "version": "3.11.6",
       "kind": "ui",
       "description": "只在正文是 JSON（含 JSONP）时出现的 JSON 编辑器：打开就是格式化后的正文，可编辑、带行号与语法高亮；「树视图」把结果画成可折叠的树，「原始数据」左右对照原文。Prettier 内置于页面，右侧实时预览左侧，出错的位置两侧都会标出错误，说明写在面板下方。美化、压缩、折叠、XML、TypeScript 与复制齐全；「保留转义」开关决定结果里 \\uXXXX 与 \\/ 是否还原；粘贴 JSON、JSONP、URL 参数、XML 或 YAML 转换后写在右侧。不需要 Node，不联网，复制由宿主执行。",
-      "fileName": "com.mypaste.json-3.11.5.mypaste-plugin",
-      "sha256": "678ca9e394ae5792f96f16ed460ed5e8f40f1f38270d6ef9fe7473872fd08208",
+      "fileName": "com.mypaste.json-3.11.6.mypaste-plugin",
+      "sha256": "72acb85cf3ae804025d1abc47facafa401d7828494f753a9a79f201ec3a6dd6c",
       "runtimeProtocol": 0,
       "repository": "https://github.com/mypaste/com.mypaste.json"
     },
