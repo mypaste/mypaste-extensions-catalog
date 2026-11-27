@@ -357,11 +357,11 @@
     {
       "id": "com.mypaste.mail",
       "name": "来信",
-      "version": "1.1.2",
+      "version": "1.1.8",
       "kind": "ui",
       "description": "在设置窗口里读收件箱：直接连接 IMAP（Gmail、QQ 邮箱、163、Outlook、iCloud 或自定义服务器）。Gmail 与 Outlook 可以在浏览器里登录，不用生成密码；其他邮箱用授权码。按来信、待读、通知、稍后、标星分类阅读，J K 翻阅、U 标已读、F 标星、S 稍后。授权码与登录令牌只存在扩展的私有目录里，信件正文只在打开时读取、不存副本；这一版只读，不删除、移动或发送邮件，也不经过任何中转服务。",
-      "fileName": "com.mypaste.mail-1.1.2.mypaste-plugin",
-      "sha256": "d0576be7a678fa3328f736fc4fd6d86125cc63f9004e5e961492bf0fb698dd56",
+      "fileName": "com.mypaste.mail-1.1.8.mypaste-plugin",
+      "sha256": "40fdac6f50968b33f765fd76e6a5022f219f8ad18fb5164497892766d3252855",
       "runtimeProtocol": 2,
       "repository": "https://github.com/mypaste/com.mypaste.mail"
     },
